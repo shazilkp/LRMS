@@ -22,10 +22,6 @@ The **Labour Room Management System (LRMS)** is a simple C++ application built u
 
 ### Steps to Run
 1. **Clone the Repository**
-   ```sh
-   git clone https://github.com/your-username/lrms.git
-   cd lrms
-   ```
 2. **Build the Project**
    - If using Visual Studio, open the `.sln` file and build the solution.
    - If using a terminal:
