@@ -33,8 +33,6 @@ The **Labour Room Management System (LRMS)** is a simple C++ application built u
    ./lrms
    ```
 
-```
-
 ## 📜 License
 This project is licensed under the **MIT License**.
 
